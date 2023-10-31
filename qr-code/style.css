@@ -1,0 +1,12 @@
+body.bg {
+    background-color:#D2E6FF ;
+}
+
+.card{
+    border: 100vh;
+    display:block;
+    margin: auto;
+    padding: auto;
+    
+    
+}
