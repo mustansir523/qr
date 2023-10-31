@@ -3,10 +3,23 @@ body.bg {
 }
 
 .card{
-    border: 100vh;
-    display:block;
-    margin: auto;
+    display: block;
     padding: auto;
+    margin: auto;
+}
+.img{
+    display:inline-block;
+   padding: 5px;
+
+    justify-content: center;
     
     
+    
+    
+}
+.card-title{
+    text-align: center;
+}
+.card-text{
+    text-align: center;
 }
